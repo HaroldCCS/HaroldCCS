@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=180&section=header&text=Harold%20Camargo&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Ingeniero%20de%20Software%20%C2%B7%20Full%20Stack%20%C2%B7%20Cloud%20%26%20IA&descAlignY=58&descSize=17" width="100%" alt="Harold Camargo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=180&section=header&text=Harold%20Camargo&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Ingeniero%20de%20Software%20-%20Full%20Stack%20-%20Cloud%20y%20IA&descAlignY=58&descSize=17" width="100%" alt="Harold Camargo" />
 
 <a href="https://haroldsoftware.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Go;Microservicios+en+AWS+y+GCP;Agentes+de+IA+de+texto+y+voz;De+la+idea+a+producci%C3%B3n+con+Harold+Software" alt="Typing SVG" /></a>
 
