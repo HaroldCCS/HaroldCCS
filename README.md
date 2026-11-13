@@ -66,8 +66,8 @@ Guardo el código de cada materia de la carrera para que otros estudiantes apren
 ### 📊 Actividad
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaroldCCS&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldCCS&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=es" alt="Lenguajes" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=HaroldCCS&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaroldCCS&theme=tokyonight" alt="Lenguajes" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0369a1,100:0f172a&height=90&section=footer" width="100%" alt="" />
